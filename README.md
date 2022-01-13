@@ -8,4 +8,4 @@ Process to deploy the Smart Contracts:
 2. Deploy MyToken setting the MarketPlace address in the constructor
 3. Call the MarketPlace "setAddress" function with the Token address as parameter
 
-All of this process is protected and has to be executed from the same address.
+All of this process is protected and has to be executed from the same owner address.
